@@ -10,6 +10,7 @@ I'm an aspiring Python Developer with a passion for Python, Django, MySQL, Front
 - Loading......
 
 ## 💬 Let's Connect!
+- Email: patanshaheen229@gmail.com
 - [LinkedIn] - linkedin.com/in/shaheen-patan-97a781294
 
 
